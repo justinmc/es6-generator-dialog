@@ -1,0 +1,8 @@
+{
+  "name": "pixigame",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "pixi": "~2.1.1"
+  }
+}
